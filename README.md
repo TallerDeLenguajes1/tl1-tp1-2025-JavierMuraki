@@ -1,12 +1,10 @@
 # Trabajo practico 1
-### ¿Por que es conveniente incluirlo?
-_Evita subir archivos inecesarios, protege informacion sensible como claves, mantiene el repositorio limpio y reduce conflictos y peso_
+### Ejercicio 2a:
+- **¿Por que es conveniente incluirlo?**: _Evita subir archivos inecesarios, protege informacion sensible como claves, mantiene el repositorio limpio y reduce conflictos y peso_
 
-### ¿Cuando se debe hacer?
-_Lo ideal es crear desde el inicio del proyecto pero tambien se puede agregar despues_
+- **¿Cuando se debe hacer?**: _Lo ideal es crear desde el inicio del proyecto pero tambien se puede agregar despues_
 
-### ¿Como configuraría el archivo .gitignore?
-_En un archivo de texto se inidica en cada lina que archivo ignorar_
+- **¿Como configuraría el archivo .gitignore?**: _En un archivo de texto se inidica en cada lina que archivo ignorar_
 ```
 # Ignorar archivos de fromato .log
 *.log
@@ -73,3 +71,13 @@ return 0
 ```
 return 0;
 ```
+
+### Ejercicio 4c:
+_Veo los archivos_
+- Punto_2
+- .gitignore
+- README.md
+- tp1_1.c
+- tp1_1.exe
+
+No hace falta que este `tp1_1.exe`
