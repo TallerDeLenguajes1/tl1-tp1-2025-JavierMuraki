@@ -81,3 +81,8 @@ _Veo los archivos_
 - tp1_1.exe
 
 No hace falta que este `tp1_1.exe`
+### Ejercicio 4g:
+- Se debe a que no hubo cambios para hacer el nuevo commit
+- Obitene el Segundo commit (4f)
+- No es igual a los anteriores
+- Para saber que archivos nuevos, borrados y modificaciones hubo durante los commits
